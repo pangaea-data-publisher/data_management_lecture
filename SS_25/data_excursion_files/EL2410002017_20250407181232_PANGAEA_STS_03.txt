@@ -1,0 +1,32 @@
+                                        Data Report
+                                                                  File created on:2025-04-07 18:12:50
+
+Model : RC-51H
+S/N : EL2410002017
+Firmware Version : V2.3
+Trip Code : 0000001
+Trip Description : Temperature recording.                                                                             
+Start Mode : Press Button 
+Logging Interval : 0:0:10
+Start Delay : 0H0M
+Repeat Start : Enable
+Timezone : UTC +00:00
+Stop Mode : Button Stop + Use Software
+Light : Disable
+Alarm Logging Interval Shorten : N/A
+Mark Time : 
+    N/A
+First Reading : 2025-04-07 15:26:43
+Last Reading : 2025-04-07 15:26:43
+Current Readings : 1
+Logging Duration : 0D 0H 0M 0S
+Maximum : 22.2°C / 38.2%RH
+Minimum : 22.2°C / 38.2%RH
+Average : 22.2°C / 38.2%RH
+Mean Kinetic Temperature (MKT) : 22.2°C
+First Alarm(Temperature) : N/A
+First Alarm(Humidity) : N/A
+
+No.	Time		°C	%RH
+1	2025-04-07 15:26:43	22.2	38.2	
+
