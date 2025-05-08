@@ -20,14 +20,14 @@ First Reading : 2025-04-07 14:51:15
 Last Reading : 2025-04-07 15:10:05
 Current Readings : 114
 Logging Duration : 0D 0H 18M 50S
-Maximum : 28.6캜 / 30.9%RH
-Minimum : 24.5캜 / 18.0%RH
-Average : 27.9캜 / 19.6%RH
-Mean Kinetic Temperature (MKT) : 27.9캜
+Maximum : 28.6째C / 30.9%RH
+Minimum : 24.5째C / 18.0%RH
+Average : 27.9째C / 19.6%RH
+Mean Kinetic Temperature (MKT) : 27.9째C
 First Alarm(Temperature) : N/A
 First Alarm(Humidity) : N/A
 
-No.	Time		캜	%RH
+No.	Time		째C	%RH
 1	2025-04-07 14:51:15	24.5	30.9	
 2	2025-04-07 14:51:25	24.9	26.7	
 3	2025-04-07 14:51:35	25.4	23.5	
